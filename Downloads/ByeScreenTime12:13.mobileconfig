@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>Requires supervised device in order for this profile to work. </string>
+		<string>Thanks for installing ByeScreenTime iOS 12/13. Profile by @APPLEH4CKZ on twitter.</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
@@ -231,7 +231,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Disable Screen Time on iOS 12/13. </string>
+	<string>Disable Screen Time on iOS 12/13. Requires supervised device to install.</string>
 	<key>PayloadDisplayName</key>
 	<string>ByeScreenTime12/13</string>
 	<key>PayloadIdentifier</key>
