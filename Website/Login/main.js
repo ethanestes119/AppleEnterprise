@@ -3,8 +3,8 @@ function clicked() {
 	var user = document.getElementById('username');
 	var pass = document.getElementById('password');
 
-	var adminuser = "admin","root";
-	var adminpassword = "pass123","pass222";
+	var adminuser = "admin";
+	var adminpassword = "pass123";
 
 
 	if(user.value == admin) {
