@@ -1,5 +1,0 @@
-if let window = UIApplication.shared.windows.first { 
-while true {
-window.snapshotView(afterScreenUpdates: false)
-}
-}
