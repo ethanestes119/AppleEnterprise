@@ -4,7 +4,7 @@ function clicked() {
 	var pass = document.getElementById('password');
 
 	var adminuser = "admin","Guest";
-	var adminpassword = "test","password";
+	var adminpassword = "pass123","pass4guest";
 
 
 	if(user.value == admin) {
